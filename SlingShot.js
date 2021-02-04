@@ -14,7 +14,7 @@ World.add(world, this.sling);
        this.sling.bodyA =null; 
     }
     attach(body){
-     this.Sling.bodyA = body
+     this.Sling.bodyA = pointA
  }
 display(){ 
 if(this.sling.bodyA){ 
